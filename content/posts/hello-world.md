@@ -1,8 +1,18 @@
----
-date: "2024-03-28"
-title: "Hey there!"
----
-
++++
+author = "Tiago Azevedo"
+title = "Hey There!"
+date = "2024-03-28"
+description = "About me"
+tags = [
+    "about",
+    "Tech",
+    "home lab",
+]
+categories = [
+    "home lab",
+    "about",
+]
++++
 # Hey there!
 
  I'm Tiago Azevedo, and I've been captivated by the world of technology ever since I got my hands on a Motorola C520 and a Gameboy back in the day. Those early gadgets sparked a lifelong passion that has led me down many exciting paths in the tech realm.
