@@ -258,7 +258,7 @@ nav.navigation a.button {
   display: inline-block;
   width: 168px;
   height: 50px;
-  border-radius: 0%;
+  border-radius: 1%;
 }
 
 .profile h1 {
