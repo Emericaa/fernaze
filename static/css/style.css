@@ -316,7 +316,7 @@ nav.navigation a.button {
 }
 
 #list-page .summary {
-  color: #757575;
+  color: #c7c7c7;
   margin-top: 12px;
   word-break: normal;
   overflow-wrap: anywhere;
@@ -391,14 +391,14 @@ nav.navigation a.button {
   margin-top: 24px;
 }
 #single .tags a {
-  background: #f2f2f2;
+  background: #0366d6;
   padding: 4px 7px;
-  color: #757575;
+  color: #ffffff;
   font-size: 14px;
   margin-right: 3px;
 }
 #single .tags a:hover {
-  color: #0366d6;
+  color: #ffffff;
 }
 
 
@@ -433,7 +433,7 @@ nav.navigation a.button {
   display: inline;
 }
 #archive .group .value .title a {
-  color:#404040;
+  color:#ffffff;
 }
 #archive .group .value .title a:hover {
   color: #0366d6;
@@ -478,7 +478,7 @@ nav.navigation a.button {
   background: #f2f2f2;
   padding: 4px 7px;
   color: #757575;
-  color: #404040;
+  color: #ffffff;
   font-size: 14px;
   margin-right: 3px;
 }
@@ -505,7 +505,7 @@ nav.navigation a.button {
 
 #page-404 .title {
   display: inline-block;
-  color: #404040;
+  color: #ffffff;
   font-size: 15px;
   font-weight: 400;
   margin: 0;
