@@ -256,8 +256,8 @@ nav.navigation a.button {
 
 .profile .avatar {
   display: inline-block;
-  width: 160px;
-  height: 80px;
+  width: 260px;
+  height: 180px;
 }
 
 .profile h1 {
@@ -266,7 +266,7 @@ nav.navigation a.button {
   font-size: 20px;
   color: #404040;
   margin-bottom: 0;
-  margin-top: 0;
+  margin-top: 100;
 }
 
 .profile h2 {
