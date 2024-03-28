@@ -9,9 +9,9 @@ defaultContentLanguage: en
 
 hasCJKLanguage: true
 permalinks:
-  posts: /posts/:title/
+  posts: /content/posts/:title/
 
-paginate: 3
+paginate: 5
 
 # googleAnalytics: your-google-analytics-id
 # disqusShortname: your-disqus-shortname
