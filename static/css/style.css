@@ -255,8 +255,10 @@ nav.navigation a.button {
 }
 
 .profile .avatar {
-  width: 260px;
-  height: 180px;
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  border-radius: 0%;
 }
 
 .profile h1 {
