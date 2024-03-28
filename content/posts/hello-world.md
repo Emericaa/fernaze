@@ -13,8 +13,6 @@ categories = [
     "about",
 ]
 +++
-# Hey there!
-
  I'm Tiago Azevedo, and I've been captivated by the world of technology ever since I got my hands on a Motorola C520 and a Gameboy back in the day. Those early gadgets sparked a lifelong passion that has led me down many exciting paths in the tech realm.
 
 At the heart of my tech journey lies my home lab, a space where I can unleash my inner mad scientist and dive deep into all things tech. From tinkering with Docker containers and Kubernetes to exploring the latest in cybersecurity and networking, my home lab is my sanctuary of discovery.
