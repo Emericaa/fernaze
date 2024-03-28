@@ -12,11 +12,11 @@ body {
 
 a {
   text-decoration: none;
-  color: #5badf0;
+  color: #141e28;
 }
 
 a:hover {
-  color: #0366d6;
+  color: #4664ff;
 }
 
 /* markdown content styles */
@@ -144,17 +144,17 @@ nav.navigation a {
   top: 8px;
   right: 6px;
   padding: 8px 12px;
-  color: #5badf0;
+  color: #141e28;
   font-size: 13px;
   line-height: 1.35;
   border-radius: 3px;
 }
 nav.navigation a:hover {
-  color: #0366d6;
+  color: #4664ff;
 }
 
 nav.navigation a.button {
-  background: #5badf0;
+  background: #141e28;
   color: #fff;
   margin-left: 12px;
 }
@@ -171,7 +171,7 @@ nav.navigation a.button {
     top: 8px;
     right: 6px;
     padding: 8px 8px;
-    color: #5badf0;
+    color: #141e28;
     font-size: 13px;
     line-height: 1.35;
     border-radius: 3px;
@@ -273,7 +273,7 @@ nav.navigation a.button {
   font-size: 15px;
   font-weight: 300;
   color: #757575;
-  margin-top: 0;
+  margin-top: -10px;
 }
 
 /* index post list */
