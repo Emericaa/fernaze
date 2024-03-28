@@ -1,6 +1,6 @@
-baseURL: "/"
+baseURL: "https://fernaze.pages.dev"
 languageCode: en-us
-title: Tiago Azevedo - Fernaze
+title: Tiago Azevedo
 theme: mini
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
@@ -9,7 +9,7 @@ defaultContentLanguage: en
 
 hasCJKLanguage: true
 permalinks:
-  posts: /content/posts/:title/
+  posts: /posts/:title/
 
 paginate: 5
 
