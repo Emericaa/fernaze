@@ -279,7 +279,8 @@ nav.navigation a.button {
 /* index post list */
 #list-page {
   max-width: 580px;
-  margin: 20 auto;
+  margin: 0 auto;
+  margin-top: 30px;
   padding: 0 24px;
 }
 
