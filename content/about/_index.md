@@ -1,8 +1,8 @@
 +++
 author = "Tiago Azevedo"
-title = "Hey There!"
+title = ""
 date = "2024-03-28"
-description = "About me"
+description = ""
 tags = [
     "about",
     "Tech",
